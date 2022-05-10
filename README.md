@@ -33,4 +33,4 @@ Output:
 
 ## Note
 
-More tests beyond what is provided are needed to verify correctness.
+The unit tests provided don't cover all test cases needed to verify correctness.
